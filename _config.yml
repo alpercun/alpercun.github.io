@@ -17,7 +17,7 @@ url: 'https://www.alpercun.dev'
 
 author: alpercun                 # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # Support network resources.
+avatar: /assets/img/sample/alpercun.jpg   # Support network resources.
 
 github:
   username: alpercun             # change to your github username
@@ -44,7 +44,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Istanbul
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -62,7 +62,7 @@ disqus:
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # The year your website first ran.
-first_run: 2019
+first_run: 2020
 
 # boolean type, global switch for ToC in posts.
 toc: true
