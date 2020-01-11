@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Kütahya'da 3.sınıf Bilgisayar Mühendisliği okumaktayım. Front-end alanında kendimi geliştiriyorum.
+> Kütahya'da 3.sınıf Bilgisayar Mühendisliği okumaktayım. Front-end alanında kendimi geliştiriyorum.
