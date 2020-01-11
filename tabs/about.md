@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> **Note**: Kütahya'da 3.sınıf Bilgisayar Mühendisliği okumaktayım. Front-end alanında kendimi geliştiriyorum.
