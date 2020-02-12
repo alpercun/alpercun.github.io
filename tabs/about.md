@@ -13,8 +13,10 @@ title: About
 
 ## -ODTU Y2FI-Yeni Fikirler Yeni Isler
 ## -CSCON'18-Cyber Security
-## -BTK Hacktrick'18-Hacker101![](/assets/img/sample/btk.png)
+## -BTK Hacktrick'18-Hacker101
+![](/assets/img/sample/btk.HEIC)
 ## -Developer Summit'19
-## -OYK'19-RUBY/RAILS WEB PROGRAMLAMA![](/assets/img/sample/oykyaz.png)
-
-## -OYK'20-GNU/Linux: Sistem Yönetimi 0.5![](/assets/img/sample/oykis.png)
+## -OYK'19-RUBY/RAILS WEB PROGRAMLAMA
+![](/assets/img/sample/oykyaz.JPG)
+## -OYK'20-GNU/Linux: Sistem Yönetimi 0.5
+![](/assets/img/sample/oykis.JPG)
