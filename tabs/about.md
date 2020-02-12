@@ -8,7 +8,7 @@ title: Hakkımda
 # MIT License
 ---
 
-> Herkese selamlar! Ben Alper. 3 yıldır yazılım ile ilgileniyorum. Kütahya'da bilgisayar mühendisliği 3. sınıf öğrencisiyim. Frontend alanında çalışmalar yaparak kendimi geliştirmekteyim. Okulda bulunduğum süre boyunca farklı şehirlerde bölümüm ve ilgi duyduğum alanlarla ilgili çeşitli etinliklere elimden geldiğince katılmaya çalıştım. Alt kısımda resim veya açıklamayla bunları görebilirsiniz.
+> Herkese selamlar! Ben Alper. 3 yıldır yazılım ile ilgileniyorum. Kütahya Dumlupınar Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Frontend alanında çalışmalar yaparak kendimi geliştirmekteyim. Okulda bulunduğum süre boyunca farklı şehirlerde bölümüm ve ilgi duyduğum alanlarla ilgili çeşitli etinliklere elimden geldiğince katılmaya çalıştım. Alt kısımda resim veya açıklamayla bunları görebilirsiniz.
 
 
 

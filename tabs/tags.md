@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Başlıklar
 
 # All the Tags of posts.
 # v2.0
