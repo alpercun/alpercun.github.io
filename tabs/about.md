@@ -1,5 +1,5 @@
 ---
-title: About
+title: Hakkımda
 
 # The About page
 # v2.0
