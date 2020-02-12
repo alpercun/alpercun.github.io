@@ -16,14 +16,14 @@ title: About
 
 
 
-## -OYK'20 - GNU/Linux: Sistem Yönetimi 0.5
+## OYK'20 - GNU/Linux: Sistem Yönetimi 0.5
 ![](/assets/img/sample/oykis.png)
 ## GDG - Denizli
 ![](/assets/img/sample/gdgdenizli.png)
-## -OYK'19 - Ruby/Rails Web Programlama
+## OYK'19 - Ruby/Rails Web Programlama
 ![](/assets/img/sample/oykyaz.png)
-## -Developer Summit'19
-## -BTK Hacktrick'18 - Hacker101
+## Developer Summit'19
+## BTK Hacktrick'18 - Hacker101
 ![](/assets/img/sample/btk.png)
-## -Cscon'18 - Cyber Security
-## -ODTU Y2FI - Yeni Fikirler Yeni Isler
+## Cscon'18 - Cyber Security
+## ODTU Y2FI - Yeni Fikirler Yeni Isler
