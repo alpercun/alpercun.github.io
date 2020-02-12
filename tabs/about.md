@@ -11,7 +11,7 @@ title: About
 > Herkese selamlar! Ben Alper. 3 yıldır yazılım ile ilgileniyorum. Kütahya'da Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Front end alanında çalışmalar yaparak kendimi geliştirmekteyim. Okulda bulunduğum süre boyunca farklı şehirlerde bölümüm ve ilgi duyduğum alanlarla ilgili çeşitli etinliklere elimden geldiğince katılmaya çalıştım. Alt kısımda resim veya açıklamayla bunları görebilirsiniz.
 
 
-## -ODTU Y2FI-Yeni Fikirler Yeni I
+## -ODTU Y2FI-Yeni Fikirler Yeni Isler
 ## -CSCON'18-Cyber Security
 ## -BTK Hacktrick'18-Hacker101![](/assets/img/sample/btk.png)
 ## -Developer Summit'19
