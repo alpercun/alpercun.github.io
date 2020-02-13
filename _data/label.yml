@@ -12,8 +12,8 @@ tabs:
   - { name: "Hakkımda", path: tabs, url: about, icon: 'fas fa-info'}
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+  lastmod: "Son Güncellemeler"
+  trending_tags: "Popüler Etiketler"
+  toc: "İçindekiler"
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Arama"   # text show on search bar
