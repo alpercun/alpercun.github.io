@@ -5,18 +5,18 @@
 # MIT Licensed
 
 tabs:
-  - { name: "Home", icon: 'fas fa-home' }
-  - { name: "Categories", path: tabs, url: categories, icon: 'fas fa-stream' }
-  - { name: "Tags", path: tabs, url: tags, icon: 'fas fa-tags' }
-  - { name: "Archives", path: tabs, url: archives, icon: 'fas fa-archive'}
-  - { name: "About", path: tabs, url: about, icon: 'fas fa-info'}
+  - { name: "Blog", icon: 'fas fa-home' }
+  - { name: "Kategoriler", path: tabs, url: categories, icon: 'fas fa-stream' }
+  - { name: "Etiketler", path: tabs, url: tags, icon: 'fas fa-tags' }
+  - { name: "Arşiv", path: tabs, url: archives, icon: 'fas fa-archive'}
+  - { name: "Hakkımda", path: tabs, url: about, icon: 'fas fa-info'}
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+  lastmod: "Son Güncelleme"
+  trending_tags: "Popüler Etiketler"
+  toc: "İçindekiler"
 
 post:
-  relate_posts: "Further Reading"
+  relate_posts: "Daha Fazla Okuma"
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Arama"   # text show on search bar
