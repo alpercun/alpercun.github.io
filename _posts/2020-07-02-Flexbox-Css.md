@@ -23,7 +23,7 @@ Bu özelliği verdiğimizde sayfada bulunan elemenlerin bulunduğu x ve y ekseni
 
 Belirttiğimiz satır içerisinde konumlandırdığımız cisimlerin genişlikleri satır genişliğini aşarsa alt satıra konumlanarak cisimleri yerleştirmeye devam eder. Kısacası sarmalama işlemi yapar. 
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.16.05.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.16.05.png)
+![flex-flex: wrap;](https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg)
 
 ## `flex-direction: row & flex-direction: column`
 
@@ -36,51 +36,51 @@ Tarayıcı tarafından tanımlanan flex-direction özelliği `row` olarak gelir.
 
 Column özelliğini kullandığımız zaman x ve y ekseni justify-content ve align-items için yer değiştirir. Bunun sonucunda justify-content x ekseninde hizamala işlemini yaparken y ekseninde işlem yapmaya başlar. Aynı durum align-items içinde geçerli olup y ekseninde hizalama işlem yapmaya çalışırken  x ekseninde işlem yapmaya başlar. Bu yüzden flex-direction özelliği bizim için çok önemlidir.
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.24.32.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.24.32.png)
+![flex-direction](https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg)
 
 ## `justify-content`
 
 Yatay eksende cisimleri hareket ettirmek için kullanılır. Tarayıcı tarafından tanımlanan flex-direction özelliği row olarak gelir. Eğer `flex-direction` özelliğini biz kendimiz column olarak getirirsek bu bize dikey eksende hareket etmemiz için sağlayan bir özellik olarak kullanmamızı sağlar. Bunun detaylı açıklaması flex-direction kısmında detaylıca açıkladım.
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.16.49.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.16.49.png)
+![justify-content](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
 
 ## `align-items`
 
 Dikey eksende cisimleri hizalamak için kullanılır. Tabi `flex-direction: row;` ise ;)
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.17.29.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.17.29.png)
+![align-items](https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg)
 
 ## `align-content`
 
 Bu bize birden fazla satırları hareket ettirmemizi sağlar align items'dan tek farkı budur. Bir diğer özellik ise `align-content` özelliğini kullandığımız anda `align-items'ın` hiçbir özelliği kalmıyor.
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.17.52.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.17.52.png)
+![align-content](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg)
 
 # `Items için kullanılan özellikler`
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.30.59.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.30.59.png)
+![items](https://css-tricks.com/wp-content/uploads/2018/10/02-items.svg)
 
 ## `align-self`
 
 Container içindeki boxların kendi başına hareket etmesini sağlar
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.34.10.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.34.10.png)
+![align-self](https://css-tricks.com/wp-content/uploads/2018/10/align-self.svg)
 
 ## `flex-grow`
 
 Eğer yerleştirdiğimiz elementlerin arasında boşluk varsa ve bizim seçtiğimiz bir elementin bu boşlukları doldurmasını istiyorsak bu özelliği kullanabiliriz. Bu özellik bize seçtiğimiz elementin boşlukları öncelikli olarak kendi hibesine eklenmesini sağlar.
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.37.24.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.37.24.png)
+![flex-grow](https://css-tricks.com/wp-content/uploads/2018/10/flex-grow.svg)
 
 ## `flex-shrink`
 
 flex-shrink özelliği verilen elemente bunun değeri yok bu artık sıkıştırılabilir diyoruz. Elemente verdiğimiz değer arttıkça sıkışma özelliği artar. Eğer seçtiğimiz elementin özelliğine 0 değerini verirsek bu kutu hiç sıkışmaz ve sadece geriye kalan kutular kendi aralarında anlaşıp eşit şekilde sıkışırlar.
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.18.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.18.png)
+![flex-shrink](https://i.resimyukle.xyz/y77QTa.png)
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.29.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.29.png)
+![flex-shrink-2](https://i.resimyukle.xyz/NNzGO3.png)
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.43.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.42.43.png)
+![flex-shrink-3](https://i.resimyukle.xyz/M00xG4.png)
 
 ## `order`
 
@@ -88,11 +88,11 @@ Elementler kendi aralarinda sıralıyken seçtiğimiz element'e verdiğimiz değ
 
 1 Numaralı kutumuz 0. indeksteyken
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.50.51.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.50.51.png)
+![order-1](https://i.resimyukle.xyz/TdSK9A.png)
 
 1 numaralı kutumuz 3. indeksteyken
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.51.30.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.51.30.png)
+![order-2](https://i.resimyukle.xyz/H34TJP.png)
 
 ## Görsel Örnekleriyle beraber Flexbox mantığını anlamak için kaynak linkler
 
