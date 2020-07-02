@@ -1,3 +1,10 @@
+---
+title: "Flexbox"
+date: "2020-07-002 21:00:00 +0300"
+categories: [Blog]
+tags: [CSS,Flexbox]
+---
+
 # `Flexbox`
 
 Html css çalışırken zamanında sürekli ezbere yazdığım ve deneme yanılma yoluyla yaptığım bu  flexbox mantığını bir yazı haline getirip akılda kalıcı olması için bu bloğu yazıyorum. Referans aldığım video ve siteleri aşağıya döküman olarak ekleyeceğim. Buradan çıkardığım notlarla mantığını iyice kavradığımı düşünüyorum umarım sizin içinde aynı şekilde verimli bir yazı olur.
