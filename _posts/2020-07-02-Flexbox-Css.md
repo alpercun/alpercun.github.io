@@ -1,6 +1,6 @@
 ---
 title: "Flexbox"
-date: "2020-07-002 21:00:00 +0300"
+date: "2020-07-02 21:00:00 +0300"
 categories: [Blog]
 tags: [CSS,Flexbox]
 ---
