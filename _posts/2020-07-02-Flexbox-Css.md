@@ -13,7 +13,7 @@ Html css çalışırken zamanında sürekli ezbere yazdığım ve deneme yanılm
 
 # `Container için kullanılan özellikler`
 
-![Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.19.04.png](Flexbox%20584988916aee4494b841d14f7030cb2a/Ekran_Resmi_2020-06-30_20.19.04.png)
+![container](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
 
 ## `display: flex`
 
